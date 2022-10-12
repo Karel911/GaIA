@@ -1,6 +1,9 @@
 # GaIA: Graphical Information Gain based Attention Network for Weakly Supervised Point Cloud Semantic Segmentation (WACV 2023)
 [![arXiv](https://img.shields.io/badge/arXiv-2210.01558-b31b1b.svg)](https://arxiv.org/abs/2210.01558)
 
+![architecture](https://user-images.githubusercontent.com/30099757/195360116-e9d33737-f3ca-4493-b2f0-157421ef73e2.png)
+![gi](https://user-images.githubusercontent.com/30099757/195360384-bfbd8d07-88f1-42ec-9d65-486ac7bd5c8d.png)
+
 ## Updates
 * <h2> [Oct.11] Full implementation is updated soon. </h2>
 
